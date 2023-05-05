@@ -12,7 +12,7 @@ declare(strict_types = 1);
  * with this source code in the file LICENSE.
  */
 
-namespace Cache\Adapter\Chain\Tests;
+namespace Cache\Adapter\Chain\Tests\Acceptance;
 
 use Cache\Adapter\Chain\CachePoolChain;
 use Cache\IntegrationTests\TaggableCachePoolTest;
